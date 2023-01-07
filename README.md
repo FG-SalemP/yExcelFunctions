@@ -4,12 +4,16 @@ Adds a few extra functions to Excel for assisting Voyager users and admins
 ## yCarat
 ```
 =yCarat()
+
+Output: example^values^combined^with^carats
 ```
 Combines values with a carat ^ between them. Useful for quickly formatting multi-selects
 
 ## yIn
 ```
 =yIn()
+
+Output: 'example', 'output', 'with', 'quotes', 'and', 'commas'
 ```
 Combines values with quotes and commas for quickly creating IN statements from values in the spreadsheet.
 
